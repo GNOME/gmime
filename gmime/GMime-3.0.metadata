@@ -19,3 +19,6 @@ Filter
   .outreal type="uint8[]"
 	.outbuf type="unowned uint8[]" array_length_field="outsize"
   .outptr type="unowned uint8[]"
+
+FilterBest
+  .charset#method name="get_charset"
